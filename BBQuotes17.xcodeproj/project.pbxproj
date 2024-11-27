@@ -18,6 +18,7 @@
 		0305E5702CE4DE8C009C062A /* Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0305E56F2CE4DE8C009C062A /* Character.swift */; };
 		0305E5722CE4DFB5009C062A /* Death.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0305E5712CE4DFB5009C062A /* Death.swift */; };
 		0305E5742CE50149009C062A /* FetchService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0305E5732CE50149009C062A /* FetchService.swift */; };
+		0351E8092CF7ADE20001E2AE /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0351E8082CF7ADE20001E2AE /* ViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		0305E56F2CE4DE8C009C062A /* Character.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Character.swift; sourceTree = "<group>"; };
 		0305E5712CE4DFB5009C062A /* Death.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Death.swift; sourceTree = "<group>"; };
 		0305E5732CE50149009C062A /* FetchService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FetchService.swift; sourceTree = "<group>"; };
+		0351E8082CF7ADE20001E2AE /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				0305E5582CE4BB60009C062A /* BBQuotes17App.swift */,
 				0305E55A2CE4BB60009C062A /* ContentView.swift */,
 				0305E5732CE50149009C062A /* FetchService.swift */,
+				0351E8082CF7ADE20001E2AE /* ViewModel.swift */,
 				0305E56D2CE4DE0E009C062A /* Quote.swift */,
 				0305E56F2CE4DE8C009C062A /* Character.swift */,
 				0305E5712CE4DFB5009C062A /* Death.swift */,
@@ -175,6 +178,7 @@
 				0305E5592CE4BB60009C062A /* BBQuotes17App.swift in Sources */,
 				0305E5742CE50149009C062A /* FetchService.swift in Sources */,
 				0305E5702CE4DE8C009C062A /* Character.swift in Sources */,
+				0351E8092CF7ADE20001E2AE /* ViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
